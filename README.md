@@ -11,7 +11,7 @@ cd itk-3dvis
 
 Create a conda environment with the accompanied `requirements.txt`:
 
-```conda create --name itk-3dvis --file requirements.txt --yes```
+```conda create --name itk-3dvis --file environment.yml --yes```
 
 If you are using Jupyter Lab then you also need to install the an extension:
 
