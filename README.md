@@ -1,5 +1,5 @@
 # itk-3dvis
-Example of how to use itk-jupyter-widgets to render Met Office data in 3D using Jupyter
+Example of how to use [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) to render Met Office data in 3D using Jupyter
 
 ## Setup
 First, clone this repository:
