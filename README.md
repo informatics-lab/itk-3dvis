@@ -18,7 +18,10 @@ If you are using Jupyter Lab then you also need to install the an extension:
 ```jupyter labextension install @jupyter-widgets/jupyterlab-manager itk-jupyter-widgets```
 
 ## Launch notebook
-From the cloned git repository:
+This notebook can be run from the [Pangeo Binder](https://binder.pangeo.io/) service at:
+https://binder.pangeo.io/v2/gh/informatics-lab/itk-3dvis/master?filepath=itk-3dvis.ipynb
+
+If you wish to run it locally, first clone this git repository (see above) then:
 
 ```jupyter notebook itk-3dvis.ipynb```
 
