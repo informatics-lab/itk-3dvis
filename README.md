@@ -1,3 +1,5 @@
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/informatics-lab/itk-3dvis/master?filepath=itk-3dvis.ipynb)
+
 # itk-3dvis
 Example of how to use [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) to render Met Office data in 3D using Jupyter
 
@@ -19,6 +21,7 @@ If you are using Jupyter Lab then you also need to install the an extension:
 
 ## Launch notebook
 This notebook can be run from the [Pangeo Binder](https://binder.pangeo.io/) service at:
+
 https://binder.pangeo.io/v2/gh/informatics-lab/itk-3dvis/master?filepath=itk-3dvis.ipynb
 
 If you wish to run it locally, first clone this git repository (see above) then:
