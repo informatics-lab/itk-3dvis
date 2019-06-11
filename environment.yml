@@ -50,6 +50,7 @@ dependencies:
   - hdf4=4.2.13
   - hdf5=1.10.4
   - heapdict=1.0.0
+  - holoviews
   - icu=58.2
   - idna=2.8
   - ipydatawidgets=4.0.0
