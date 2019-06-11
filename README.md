@@ -22,7 +22,7 @@ If you are using Jupyter Lab then you also need to install the an extension:
 ## Launch notebook
 This notebook can be run from the [Pangeo Binder](https://binder.pangeo.io/) service at:
 
-https://binder.pangeo.io/v2/gh/informatics-lab/itk-3dvis/master?filepath=itk-3dvis.ipynb
+https://binder.pangeo.io/v2/gh/informatics-lab/itk-3dvis/nbserverproxy?filepath=itk-3dvis.ipynb
 
 If you wish to run it locally, first clone this git repository (see above) then:
 
