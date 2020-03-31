@@ -1,3 +1,5 @@
+# ARCHIVED: Due to vulnerabilities in outdated versions of dependencies, this repo has been archived
+
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/informatics-lab/itk-3dvis/master?filepath=itk-3dvis.ipynb)
 
 # itk-3dvis
