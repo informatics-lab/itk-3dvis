@@ -50,6 +50,7 @@ dependencies:
   - hdf4=4.2.13
   - hdf5=1.10.4
   - heapdict=1.0.0
+  - holoviews
   - icu=58.2
   - idna=2.8
   - ipydatawidgets=4.0.0
@@ -96,6 +97,7 @@ dependencies:
   - msgpack-python=0.6.1
   - nbconvert=5.5.0
   - nbformat=4.4.0
+  - nbserverproxy
   - ncurses=6.1
   - netcdf4=1.5.0.1
   - notebook=5.7.8
